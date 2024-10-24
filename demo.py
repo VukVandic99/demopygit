@@ -1,5 +1,3 @@
-print("Hello")
-print("Welcome to Telusko")
+print('This is an updated version')
 
-
-print("Hello from Navin")
+print('Hello from Serbia')
